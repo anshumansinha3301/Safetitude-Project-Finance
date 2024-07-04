@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Determine the break-even point given fixed costs, variable costs, and price per unit.
+// Determine the break-even point given fixed costs, variable costs, and price per unit.   
 int main() {
     double fixedCost, variableCost, pricePerUnit;
     cout << "Enter fixed cost: ";

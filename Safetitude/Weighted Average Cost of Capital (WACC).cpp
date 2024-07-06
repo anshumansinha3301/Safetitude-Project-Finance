@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-// Calculate WACC given the cost of equity, cost of debt, equity proportion, and debt proportion.       
+// Calculate WACC given the cost of equity, cost of debt, equity proportion, and debt proportion.        
 int main() {
     double costOfEquity, costOfDebt, equityProportion, debtProportion, taxRate;
     cout << "Enter cost of equity: ";

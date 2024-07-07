@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+ 
 int main() {
     double contributionMargin, salesRevenue;
     cout << "Enter contribution margin: ";

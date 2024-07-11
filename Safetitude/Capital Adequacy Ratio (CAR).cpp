@@ -1,6 +1,6 @@
 #include <iostream>
 using namespace std;
-
+ 
 int main() {
     double bankCapital, riskWeightedAssets;
     cout << "Enter bank capital: ";
